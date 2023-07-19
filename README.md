@@ -55,6 +55,20 @@ To run the web app locally or deploy it, follow these steps:
 - `failure.html`: The HTML template for the failure page shown if there's an error during signup.
 - `style.css`: The CSS file that provides custom styling to the HTML templates.
 
+## Sample Images
+
+![Image 1](public/Images/img1)
+
+![Image 2](public/Images/img2)
+
+![Image 3](public/Images/img3)
+
+![Image 4](public/Images/img4)
+
+![Image 5](public/Images/img5)
+
+![Image 6](public/Images/img6)
+
 ## Author
 
 This web app is created by [pantharshit007](https://github.com/pantharshit007). Feel free to contact me if you have any questions or suggestions!
