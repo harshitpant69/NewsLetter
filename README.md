@@ -57,7 +57,7 @@ To run the web app locally or deploy it, follow these steps:
 
 ## Sample Images
 
-![Image 1](public/Images/img1)
+![Image 1](Images/img1)
 
 ![Image 2](public/Images/img2)
 
