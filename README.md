@@ -57,17 +57,18 @@ To run the web app locally or deploy it, follow these steps:
 
 ## Sample Images
 
-![Image 1](public/Images/img1)
+![Image 1](public/Images/img1.png)
 
-![Image 2](public/Images/img2)
+![Image 2](public/Images/img2.png)
 
-![Image 3](public/Images/img3)
+![Image 3](public/Images/img3.png)
 
-![Image 4](public/Images/img4)
+![Image 4](public/Images/img4.png)
 
-![Image 5](public/Images/img5)
+![Image 5](public/Images/img5.png)
 
-![Image 6](public/Images/img6)
+![Image 6](public/Images/img6.png)
+
 
 ## Author
 
