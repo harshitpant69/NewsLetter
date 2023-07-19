@@ -37,7 +37,7 @@ app.post('/', (req, res) => {
     const url = "https://us11.api.mailchimp.com/3.0/lists/3ec9c99f27"
     const options = {
         method: "POST",
-        auth: "harshit:66f5bb4d2c54352707cb358a68aa8776-us11"
+        auth: "harshit: your API Key"
     }
 
     const request = https.request(url, options, function(response){
@@ -67,12 +67,17 @@ app.post('/failure', function(req, res){
     res.redirect('/');
 })
 
-app.listen(3000, (req, res) => {
+// app.listen(3000, (req, res) => {
+//     console.log("Server is running on port 3000");
+// })
+
+//this is need to be done inorder to deploy it 
+app.listen(process.env.PORT || 3000, () => {
     console.log("Server is running on port 3000");
 })
 
 // apikey
-// 66f5bb4d2c54352707cb358a68aa8776-us11
+// 66f5bb4d2c54352707cb358a68aa8776-us11 [revoked]
 
 // list id
 // 3ec9c99f27
