@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for a newsletter web app. The web app allows users to sign up for a newsletter by providing their first name, last name, and email address. The app stores subscribers' data on the Mailchimp platform using their API.
+This repository presents you with a newsletter web app. The web app allows users to sign up for a newsletter by providing their first name, last name, and email address. The app stores subscribers' data on the Mailchimp platform using their API.
 
 ## Website URL
 
@@ -58,8 +58,6 @@ To run the web app locally or deploy it, follow these steps:
 ## Sample Images
 
 ![Image 1](public/Images/img1.png)
-
-![Image 2](public/Images/img2.png)
 
 ![Image 3](public/Images/img3.png)
 
