@@ -82,3 +82,8 @@ app.listen(process.env.PORT || 3000, () => {
 // list id
 // 3ec9c99f27
 
+// https://usX.api.mailchimp.com/3.0/lists/{list_id}
+
+// backend on 
+// https://us11.admin.mailchimp.com/lists/members/ [for owner]
+
